@@ -1,4 +1,4 @@
-module directories
+module github.com/PinedaVictor/directories
 
 // github.com/PinedaVictor/directories
 
